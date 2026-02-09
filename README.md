@@ -1,74 +1,96 @@
-<h1 align="center">Hi 👋, I'm Daivik</h1>
-<h3 align="center">AI enthusiast | Machine Learning Researcher | Full Stack Developer</h3>
-<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=sepia&height=280&section=header&text=DAIVIK%20REDDY&fontSize=80&fontAlignY=35&desc=Creator%20of%20DAV%20%7C%20AI%20Architect%20%7C%20Codex%20Composer&descAlignY=65&descSize=20&animation=shine" width="100%" />
+</div>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=daivikreddy&label=Profile%20views&color=0e75b6&style=flat" alt="daivikreddy" />
-</p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&pause=1000&color=AEFF00&center=true&vCenter=true&width=650&lines=Crafting+AI+Systems...;Blending+Vision,+Voice+%26+Automation...;Engineering+Tomorrow%27s+AIs...;Sharpening+Code+Like+Music..." alt="Typing SVG" />
+  </a>
+</div>
 
-- 🔭 I’m currently building **face recognition attendance systems** for classrooms and developing **SAM, my AI desktop assistant**
-- 🌱 Learning: **Deep Learning, AI automation tools (Agent S2, AutoIt), Next.js**
-- 💬 Ask me about **Python, Machine Learning models, AI project deployment, GitHub workflows**
-- 👨‍💻 Exploring **Computer Vision (YOLO, Adaface, ViTs)** and **local LLMs (nanoGPT, gpt4all)**
-- 🎬 Content creator: **Instagram Reels, LinkedIn AI/ML news**
-- 📫 How to reach me: **daivik1520@gmail.com** (school/student mail)
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/daivik-reddy-60a876311/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="daivik reddy" height="30" width="40" />
+<div align="center">
+  <a href="https://github.com/Daivik1520">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/daivik_warrior" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="daivik reddy" height="30" width="40" />
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://javascript.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt
+---
 
+## 👨‍💻 WHO I AM
+
+I'm **Daivik Reddy**, a young tech explorer from Hyderabad, India. I live at the intersection of **AI, automation, and creative engineering** — building tools that think, see, and act.
+
+🌟 Founder of **DAV**, my most powerful AI model yet  
+🤖 Creator of **SAM**, an AI desktop assistant  
+🧠 Passionate about **machine intelligence, computer vision, and local AI systems**  
+🎵 Music & coding come together in my creative world
+
+I build **open-source projects** that push boundaries and make tech more human-centric.
+
+---
+
+## 🧠 WHAT I DO
+
+🔹 I design **AI assistants** capable of reasoning, speaking, and executing tasks  
+🔹 I develop **computer vision systems** for real-world automation  
+🔹 I code **interactive tools** — terminal to web, Python to TypeScript  
+🔹 I merge **software logic & creative thinking** to solve complex problems
+
+---
+
+## 🚀 OPEN-SOURCE PORTFOLIO
+
+Here are some of my highlighted projects (all open-source): :contentReference[oaicite:2]{index=2}
+
+| **Project** | **Description** |
+| :--- | :--- |
+| **SAM-v4** | Latest evolution of my AI desktop assistant 🧠 |
+| **facial_recognition** | AI attendance & face detection system 🎯 |
+| **virtual-mouse** | Control PC with hand gestures via webcam 🤚 |
+| **SAMgpt** | Modular GPT build for research & learning 📘 |
+| **SAM.CHAT** | Interactive chat UI built in TypeScript 💬 |
+| **city-roads** | WebGL tool visualizing urban road networks 🚏 |
+| **Search2Download** | Smart search → direct download utility 🔎 |
+| **teminal_tunes** | Play music from your terminal 🎧 |
+| **face-swapping** | AI-powered face swap demo 😄 |
+| **dailyplanner-web** | Web app to organize goals & productivity 📅 |
+
+---
+
+## 🛠️ TECH STACK
+
+| **AI / ML** | **Web & Apps** | **Automation** | **Languages** |
+| :---: | :---: | :---: | :---: |
+| 🧠 Python, PyTorch, TensorFlow | 🌐 React, Next.js, Tailwind CSS | 🛠️ Git, Linux, VS Code | 🐍 Python, JS, TS, C++ |
+| 📸 OpenCV, MediaPipe | 📱 TypeScript, HTML, CSS | ⚙️ Automation scripts | 🧠 ML frameworks |
+
+---
+
+## 🌟 MY BELIEFS
+
+> I believe technology should **assist, amplify, and empower**.  
+> Code isn’t just syntax — it’s a medium for expression.
+
+---
+
+## 📫 LET’S CONNECT
+
+Whether you want to talk AI models, collaborative projects, or futuristic systems — I’m ready.
+
+📧 yourmail@gmail.com
+
+🔗 LinkedIn: https://linkedin.com/in/yourprofile
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=sepia&height=100&section=footer" width="100%"/>
+</div>
