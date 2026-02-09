@@ -86,9 +86,9 @@ Here are some of my highlighted projects (all open-source): :contentReference[oa
 
 Whether you want to talk AI models, collaborative projects, or futuristic systems — I’m ready.
 
-📧 yourmail@gmail.com
+📧 Daivik1520@gmail.com
 
-🔗 LinkedIn: https://linkedin.com/in/yourprofile
+🔗 LinkedIn: https://www.linkedin.com/in/daivik-reddy-60a876311/
 
 ---
 
