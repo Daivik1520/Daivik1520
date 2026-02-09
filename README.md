@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=sepia&height=280&section=header&text=DAIVIK%20REDDY&fontSize=80&fontAlignY=35&desc=Creator%20of%20DAV%20%7C%20AI%20Architect%20%7C%20Codex%20Composer&descAlignY=65&descSize=20&animation=shine" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=DAIVIK%20REDDY&fontSize=78&fontAlignY=35&desc=Creator%20of%20DAV%20%7C%20AI%20Architect%20%7C%20Codex%20Composer&descAlignY=65&descSize=22&color=0:74ebd5,100:ACB6E5&animation=twinkling" width="100%" />
 </div>
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
